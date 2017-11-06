@@ -11,11 +11,6 @@ chem_list = doc.records.serialize()
 
 chem_output = ""
 
-
-
-
-#chem = chem_json[1]
-
 for chem in chem_list:
   chem_output += chem.values()[0][0] +'\n' 
 

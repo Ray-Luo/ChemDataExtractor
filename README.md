@@ -1,2 +1,2 @@
 # ChemDataExtractor
-Extracing chemical entities using ChemDataExtractor Python API.
+Automatically extract chemical entities from academic papers using ChemDataExtractor Python API.
